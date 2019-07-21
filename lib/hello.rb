@@ -1,4 +1,5 @@
-def hello_t
+def hello_t(greet)
+greet.  
 
 end
 
